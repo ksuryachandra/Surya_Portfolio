@@ -2,7 +2,7 @@
 
 
 # [Project 1: Cab Industry - Case Study](https://github.com/ksuryachandra/G2M-Case-study)
-A private equity firm in the US wants to choose a can company to invest in. Due to remarkable growth in the cab industry in the last few years and multiple key players in the market, it is planning for an investment in the Cab industry. The project's objective is to provide actionable insights to help XYZ firm in identifying the right company for investing.
+A private equity firm in the US wants to choose a can company to invest in. Due to remarkable growth in the cab industry in the last few years and multiple key players in the market, it is planning for an investment in the Cab industry. The project's objective is to provide actionable insights to help the firm in identifying the right company for investing.
 
 # [Project 2: Retail Price Optimization](https://github.com/ksuryachandra/Retail-Price-Optimization)
 This project forecasts weekly demand for products & recommends corresponding optimal prices for a retail chain using Machine Learning (random forest algorithm). The code is developed using python libraries like sklearn, MIP optimization in Gurobi
