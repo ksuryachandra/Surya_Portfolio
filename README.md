@@ -4,7 +4,7 @@
 A private equity firm in the US wants to choose a can company to invest in. Due to remarkable growth in the cab industry in the last few years and multiple key players in the market, it is planning for an investment in the cab industry. The project's objective is to provide actionable insights to help the firm in identifying the right company for investing.
 
 # [Project 2: Retail Price Optimization](https://github.com/ksuryachandra/Retail-Price-Optimization)
-This project forecasts weekly demand for products & recommends corresponding optimal prices for a retail chain using Machine Learning (random forest algorithm). The code is developed using python libraries like sklearn, MIP optimization in Gurobi.
+This project forecasts weekly demand for products & recommends corresponding optimal prices for a retail chain using Machine Learning. The code is developed using python libraries like sklearn, pandas, matplotlib, and seaborn.
 
 # [Project 3: Data Glacier - Bank Marketing](https://github.com/ksuryachandra/Bank_Week_7-)
 A bank wants to sell its term deposit product to customers and before launching the product they want to develop a model which will help them in understanding whether a particular customer will buy their product or not (based on customer’s past interaction with the bank and other financial institutions).
